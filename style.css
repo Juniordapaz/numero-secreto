@@ -2,8 +2,8 @@
 
 :root {
     --font-family: 'Montserrat', sans-serif;
-    --bg-color: #0AA1DD;
-    --primary-color: #E8F9FD;
+    --bg-color: linear-gradient(90deg, #ffe7d1 0%, #fff2e6 100%);
+    --primary-color: #00e676;
 }
 
 body {
